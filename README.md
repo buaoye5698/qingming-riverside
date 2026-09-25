@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-**公开源码：[qingming-riverside](https://github.com/xianxie6/qingming-riverside)**
+**公开源码：[qingming-riverside](https://github.com/buaoye5698/qingming-riverside)**
 
 **在线体验：[打开画卷](https://xianxie6.github.io/qingming-riverside/)**
 

@@ -31,7 +31,7 @@
 
 备用入口：[Vercel](https://qingming-riverside-nine.vercel.app/) · [Cloudflare](https://qingming-riverside.zhangxianxie6.workers.dev/)。
 
-GitHub Pages 从 master 分支自动发布；推送代码后可在仓库 Actions 中查看发布状态。Vercel 为独立部署，更新时运行 `vercel deploy --prod`。
+在线体验当前由原仓库的 GitHub Pages 提供。Vercel 为独立部署，更新时运行 `vercel deploy --prod`。
 
 无需安装或登录，支持电脑与手机浏览器。画面为原创生成插画，不是《清明上河图》原画扫描。
 
